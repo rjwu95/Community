@@ -1,0 +1,1 @@
+import { sampleReducer } from '../reducers'
